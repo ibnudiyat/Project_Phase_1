@@ -32,5 +32,15 @@ Merge df and df_State
 
 Visualizations
 
+<<<<<<< HEAD
+=======
+![image](https://github.com/user-attachments/assets/d441d5ae-8574-4f8c-b005-21f849e87c1c)
+
+![image](https://github.com/user-attachments/assets/5b01101d-b2bd-489b-a71d-44f02d6dea06)
+
+![image](https://github.com/user-attachments/assets/3d019868-1fb5-4471-aee7-ffc5dd979d9a)
+
+
+>>>>>>> e53339cf1c409a1a223b938067eb05ce557304bc
 
 
