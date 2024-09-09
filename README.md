@@ -32,7 +32,7 @@ Merge df and df_State
 
 Visualizations
 
-<<<<<<< HEAD
+<<<<<<< 
 =======
 ![image](https://github.com/user-attachments/assets/d441d5ae-8574-4f8c-b005-21f849e87c1c)
 
@@ -40,7 +40,14 @@ Visualizations
 
 ![image](https://github.com/user-attachments/assets/3d019868-1fb5-4471-aee7-ffc5dd979d9a)
 
+Findings
 
->>>>>>> e53339cf1c409a1a223b938067eb05ce557304bc
+California, Texas ,Florida and Alaska have the highest number of accidents.
+Cessna Aircraft are mostly involved an accident. Piper and Beech aircrafts also have significant scenarios of accidents.
+The accidents has declined from 1987 to 2022
+
+Tableau Link
+https://public.tableau.com/app/profile/abdirahman.farah/viz/AVIATIONACCIDENTSANALYSISINUS/AVIATIONACCIDENTSANALYSISINUS?publish=yes
+
 
 
