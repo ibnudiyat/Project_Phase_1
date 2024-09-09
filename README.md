@@ -31,4 +31,9 @@ Clean df_State (Dataframe)
 Merge df and df_State
 
 Visualizations
-[image](https://github.com/user-attachments/assets/125f134c-4616-4619-a4fc-42912ac1962a)
+
+
+Findings 
+California, Texas ,Florida and Alaska have the highest number of accidents.
+Cessna Aircraft are mostly involved an accident. Piper and Beech aircrafts also have significant scenarios of accidents.
+The accidents has declined from 1987 to 2022
